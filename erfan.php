@@ -6,7 +6,7 @@ opcache_reset();
 
 
 
-define('BOT_TOKEN', '290621114:AAFlcgDUQNoH211n7TbnQglj1TKgBjrL_fo');
+define('BOT_TOKEN', ':)');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 $content = file_get_contents("php://input");
